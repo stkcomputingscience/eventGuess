@@ -40,7 +40,7 @@ if (score > 100)	                // (score > 100) will be true or false
 - the *flowchart* shows the *logic* of how the code controls the steps of the payment processes.
 - the *structure diagram* shows how the code is organised to handle the process.
 
-![bottled water loop example](https://lh3.googleusercontent.com/stKY_Th1qYx6fUyO5Zyp2BrM2O_eKoaMftgQEQuR8PDPUR9h-aiY0fLJcIexgMD1jLHtP6He031U=s1000 "bottled water loop example")
+![bottleCost](https://lh3.googleusercontent.com/gcQz-aB3VZjTDE7FF2HRibWDyPWbGrmLgiH5ztsuZgelDqDRI5XIHMQv2SwylS93FCmynLNfv9Xv=s1000 "bottleGuess")
 
 - compare how the loop is represented in both diagrams, they both show the **same** plan.
 - the flowchart may look like an `if` construct, but there is a return arrow so this is a loop.
@@ -148,5 +148,5 @@ if (score > 100)	                // (score > 100) will be true or false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3ODk5MTU3XX0=
+eyJoaXN0b3J5IjpbMTg4NzYzMjg4MywtMTk2NTA0MjY5M119
 -->
